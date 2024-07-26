@@ -1,4 +1,3 @@
-# proj-028
 
 > Status do Projeto: :alarm_clock: EM ANDAMENTO
 
@@ -78,7 +77,3 @@ classDiagram
 
 No browser acesse <http://localhost:8082/swagger-ui/index.html>
 
-## Licença
-
-The [MIT License]() (MIT)
-Copyright :copyright: 2023 - proj-028
